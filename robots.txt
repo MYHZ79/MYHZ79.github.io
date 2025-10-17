@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://MYHZ79.github.io/sitemap.xml
+Sitemap: https://myhz79.github.io/sitemap.xml
