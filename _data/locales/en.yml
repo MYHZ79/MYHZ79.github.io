@@ -1,0 +1,17 @@
+# English (en) translations for al-folio theme
+# Structural texts
+home: "Home"
+about: "About"
+publications: "Publications"
+projects: "Projects"
+news: "News"
+blog: "Blog"
+cv: "CV"
+repositories: "Repositories"
+search: "Search"
+back_to_top: "Back to Top"
+read_more: "Read More"
+toggle_navigation: "Toggle navigation"
+bookshelf: "Bookshelf"
+last_updated: "Last updated"
+impressum: "Impressum"
