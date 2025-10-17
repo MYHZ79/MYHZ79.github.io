@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang }}">
+<html lang="{{ site.lang }}" {% if site.rtl_langs contains site.lang %}dir="rtl"{% endif %}>
   <!-- Head -->
   <head>
     {% if page.redirect %}
@@ -22,7 +22,7 @@
 
     <!-- Content -->
     <div class="container mt-5" role="main">
-      <div {% if site.rtl_langs contains page.lang %}dir="rtl" align="right"{% endif %}>
+      <div {% if site.rtl_langs contains page.lang %}class="rtl-content"{% endif %}>
         {% if page.toc and page.toc.sidebar %}
           
           <!-- revert the side bar for rtl -->
