@@ -259,6 +259,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/custom-blockquotes/";
           
         },
+      },{id: "post-راست-به-چپ-با-نوار-کناری",
+        
+          title: "راست‌به‌چپ با نوار کناری",
+        
+        description: "RTL even in sidebar",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/rtl-with-sidebar/";
+          
+        },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
         
           title: "a post with table of contents on a sidebar",
@@ -323,6 +334,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2022/giscus-comments/";
+          
+        },
+      },{id: "post-دیستیل-راست-به-چپ",
+        
+          title: "دیستیل راست به چپ",
+        
+        description: "تست صفحه‌آرایی راست به چپ",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/distill-rtl/";
+          
+        },
+      },{id: "post-right-to-left-scripting",
+        
+          title: "Right to left scripting",
+        
+        description: "you can also write from right to left",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/rtl/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
