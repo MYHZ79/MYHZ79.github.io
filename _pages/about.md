@@ -27,7 +27,8 @@ social: true # includes social icons at the bottom of the page
 #   limit: 5 # leave blank to include all the blog posts
 ---
 
-## **سلام** <br> من **محمد یاسین حبیب زاده** هستم.
+## سلام <br> من <br>**محمد یاسین حبیب‌زاده** هستم.
 
 > شبِ تاریک و بیمِ موج و گِردابی چنین هایل...  
-\- حافظ  {: .block-tip }
+> — حافظ
+{: .block-tip }
